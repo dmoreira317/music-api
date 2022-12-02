@@ -35,7 +35,7 @@ Se pide que se desarrolle una API de consulta con los siguientes servicios:
     - Nombre del músico / grupo.
     - Número total de canciones.
       ### SERVED AT:
-    ```/albums_extra_info/```
+    ```/albums_info/```
 
 Deberá utilizarse Python, Docker y ORM para las consultas además de subir el resultado en
 un repositorio de GitHub.
